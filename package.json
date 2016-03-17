@@ -1,0 +1,28 @@
+{
+  "name": "battlesnode",
+  "version": "1.0.0",
+  "description": "battle ship game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://dell0049@github.com/dell0049/battleshipNode.git"
+  },
+  "keywords": [
+    "battle",
+    "ship",
+    "game"
+  ],
+  "author": "aaron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dell0049/battleshipNode/issues"
+  },
+  "homepage": "https://github.com/dell0049/battleshipNode#readme",
+  "dependencies": {
+    "cors": "^2.7.1",
+    "express": "^4.13.4"
+  }
+}
