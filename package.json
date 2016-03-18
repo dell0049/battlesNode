@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://dell0049@github.com/dell0049/battleshipNode.git"
+    "url": "git+https://dell0049@github.com/dell0049/battlesNode.git"
   },
   "keywords": [
     "battle",
@@ -18,9 +18,9 @@
   "author": "aaron",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dell0049/battleshipNode/issues"
+    "url": "https://github.com/dell0049/battlesNode/issues"
   },
-  "homepage": "https://github.com/dell0049/battleshipNode#readme",
+  "homepage": "https://github.com/dell0049/battlesNode#readme",
   "dependencies": {
     "cors": "^2.7.1",
     "express": "^4.13.4"
